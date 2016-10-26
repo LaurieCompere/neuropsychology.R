@@ -15,8 +15,8 @@ An R Toolbox for Psychologists, Neuropsychologists and Neuroscientists
 
 |Name|neuropsychology|
 |----------------|---|
-|Status|![](https://img.shields.io/badge/status-stable-brightgreen.svg)|
-|Latest Version|![](https://img.shields.io/badge/version-0.2.6-brightgreen.svg)|
+|Status|![](https://travis-ci.org/neuropsychology/neuropsychology.R.svg?branch=master)|
+|Latest Version|![](https://img.shields.io/badge/version-0.2.7-brightgreen.svg)|
 |Authors|[Dominique Makowski](https://github.com/neuropsychology/Organization/blob/master/CVs/DominiqueMakowski.pdf)|
 |CRAN|https://CRAN.R-project.org/package=neuropsychology|
 |Manual|https://cran.r-project.org/web/packages/neuropsychology/neuropsychology.pdf|
@@ -31,7 +31,7 @@ install.packages("neuropsychology")
 library("neuropsychology")
 ```
 
-- To get the latest development version (`0.2.6`), run the following:
+- To get the latest development version (`0.2.7`), run the following:
 
 ```R
 install.packages("devtools")
@@ -144,6 +144,7 @@ Extraversion    3.27   3.25 2.30 1.52     245
   Just open an [issue](https://github.com/neuropsychology/neuropsychology.R/issues) :relaxed:
 - Want to add yourself a feature? Correct a bug? You're more than welcome to contribute!
   Check this tutorial ([French](https://github.com/neuropsychology/Courses/blob/master/Programing/Github/Contribute-FR.md) or [English](https://github.com/neuropsychology/Courses/blob/master/Programing/Github/Contribute-EN.md)) to see how to submit your changes on github.
+- Check [this style guide](http://handsondatascience.com/StyleO.pdf) to write R code with style.
 
 ---
 ## Citation
